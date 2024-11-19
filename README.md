@@ -6,7 +6,7 @@ Gradia tietokantojen-hyodyntaminen kurssin arkisto (repository).
 
 Tällä kurssia käytämme Microftin SQL-tietokantaa osana tehtäviä sovelluksia. Kehitysympäristönä toimii Visual Studio 2022 Community versio. Tietokannan käsitteltyä varten kannattaa ladata oma työkalu osoitteesta https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 
-Jokainen tehtävä sijoitetaan tänne omaan hakemistoonsa. 
+Jokainen tehtävä sijoitetaan tänne omaan hakemistoonsa.
 
 # Aikataulu, tavoitteet ja oman osaamisen arviointi
 
